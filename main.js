@@ -1,0 +1,14 @@
+var first_name = "HabaJaba";
+var last_name = "Superb";
+var full_name = first_name.concat(last_name);
+console.log(full_name);
+var a = 4;
+var b = 2010;
+var add = a+b;
+console.log(add);
+var subtract = b-a;
+console.log(subtract);
+var multiply = a*b;
+console.log(multiply);
+var divide = a/b;
+console.log(divide);
